@@ -1,0 +1,3 @@
+"""
+JeevanMitra AI — backend package
+"""

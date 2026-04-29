@@ -1,0 +1,17 @@
+# ─────────────────────────────────────────────────────────────────
+# JeevanMitra AI — Python dependencies
+# ─────────────────────────────────────────────────────────────────
+#
+# CORE (standard library only — no pip install needed for basic run)
+# The server uses only Python built-ins:
+#   http.server, urllib, json, os, sys, webbrowser, threading
+#
+# OPTIONAL — install for vision-model fallback via the Groq SDK
+#   Fixes Cloudflare 403 blocks when sending images.
+#
+groq>=0.9.0
+#
+# ─────────────────────────────────────────────────────────────────
+# Install optional deps:
+#   pip install -r requirements.txt
+# ─────────────────────────────────────────────────────────────────
