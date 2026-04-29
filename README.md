@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 JeevanMitra AI — Multilingual Smart Farming Assistant
 
 > An AI-powered agricultural advisor that helps Indian farmers with crop recommendations, yield prediction, disease detection, and real-time market prices — all running **100% locally**, powered by **Groq's free API**.
@@ -166,3 +167,7 @@ MIT — free to use, modify, and distribute.
 ---
 
 *Made with ❤️ for Indian farmers 🌾*
+=======
+# jeevanmitra-ai
+JeevanMitra AI is an intelligent agriculture assistant that helps farmers with crop recommendations, disease detection, and real-time farming insights using AI
+>>>>>>> 9ec110d56409980f57652c79a583fa024ed4f2fc
